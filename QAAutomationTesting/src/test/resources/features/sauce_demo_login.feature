@@ -12,5 +12,5 @@ Feature: Buenas prácticas de automatización
 
     Examples:
       | pageName  | userName      | password     | msg      |
-      | sauceDemo | standard_user | secret_sauce | Prodcts |
+      | sauceDemo | standard_user | secret_sauce | Products |
 
